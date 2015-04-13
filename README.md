@@ -1,2 +1,2 @@
-# ReseauNeurone
+# PerceptronMulticouche
 Bibliothèque simple pour faire des reseaux de neurones en Java .
